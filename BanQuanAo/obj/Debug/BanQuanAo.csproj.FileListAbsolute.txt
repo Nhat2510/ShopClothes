@@ -1,0 +1,15 @@
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\bin\Debug\BanQuanAo.exe.config
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\bin\Debug\BanQuanAo.exe
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\bin\Debug\BanQuanAo.pdb
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.csprojAssemblyReference.cache
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.GUI.frmDN.resources
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.Properties.Resources.resources
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.csproj.GenerateResource.cache
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.csproj.CoreCompileInputs.cache
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.exe
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.pdb
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\bin\Debug\QLBH.mdf
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\bin\Debug\QLBH_log.ldf
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.GUI.frm_QLBH.resources
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.GUI.frmList.resources
+D:\School\CS-464-HIS\DoAn\BanQuanAo\BanQuanAo\obj\Debug\BanQuanAo.GUI.frmBanHang.resources
